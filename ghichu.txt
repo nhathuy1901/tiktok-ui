@@ -1,0 +1,23 @@
+npm i normalize.css
+font montserrat google
+-Sử dụng tippy react prop
+    +npm i @tippyjs/react
+    +search bằng chác tippy react props
+-Alt+Shift+O để tự import thư việc
+
+encodeURIComponent: mã hóa query parmater
+npm i axios
+
+
+
+
+Bao 74: Sua loi Va hoan thien phan header
+-Link Logo ve trang chủ
+-Sữa phông chữ trong ô tìm kiếm
+-Ko cho nhập ký tự đầu tiên là space trong ô tìm kiếm
+-Bỏ qua hành vi focus vào ô tìm kiếm khi nhấn nút submit
+-Không ấn menu khi click vào avatar
+-Xử lý thanh cuộn trong menu đa cấp, khi có nhiều content
+-Thêm style overplay cho thanh cuộn body,
+-Sữa title trang và update favicon
+-Fix warning trong thư viên tippy
