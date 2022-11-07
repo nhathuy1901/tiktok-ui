@@ -21,3 +21,4 @@ Bao 74: Sua loi Va hoan thien phan header
 -Thêm style overplay cho thanh cuộn body,
 -Sữa title trang và update favicon
 -Fix warning trong thư viên tippy
+-Test thu chuc nang cua git hub
