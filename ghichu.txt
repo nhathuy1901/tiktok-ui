@@ -22,3 +22,4 @@ Bao 74: Sua loi Va hoan thien phan header
 -Sữa title trang và update favicon
 -Fix warning trong thư viên tippy
 -Test thu chuc nang cua git hub
+-Test thu chuc nang cua branch
